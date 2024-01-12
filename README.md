@@ -1,4 +1,4 @@
-![logo]()
+![banner image](https://www.canva.com/design/DAF5ogjS1co/DjEulrvb_3LlMVnlWfSp7A/edit?utm_content=DAF5ogjS1co&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Abhay Pathak</h1>
 <h3 align="center">I'm a web developer with the best digital skills and provide digital marketing services at affordable prices.</h3>
 
