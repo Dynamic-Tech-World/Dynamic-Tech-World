@@ -1,4 +1,3 @@
-![logo](https://github.com/Dynamic-Tech-World/Dynamic-Tech-World/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Abhay Pathak</h1>
 <h3 align="center">I'm a web developer with the best digital skills and provide digital marketing services at affordable prices.</h3>
 
