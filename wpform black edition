@@ -90,3 +90,30 @@
 .wpforms-container-full .wpforms-pagebreak-button:hover {
     background-color: #333333; /* Darker black on hover */
 }
+
+/* Ensure country flags in phone input fields are not affected */
+.wpforms-container-full .wpforms-field input[type="tel"] .iti__flag {
+    background-color: transparent !important; /* Ensure flag backgrounds are transparent */
+    color: initial !important; /* Ensure flag colors are not changed */
+}
+
+/* Resetting any image inside the phone field to its original colors */
+.wpforms-container-full .wpforms-field input[type="tel"] .iti__flag img {
+    filter: none !important; /* Remove any filter that might affect flag colors */
+}
+
+/* Additional rule to ensure flag visibility on mobile */
+.wpforms-container-full .wpforms-field input[type="tel"] .iti__selected-flag {
+    background-color: transparent !important; /* Transparent background for selected flag */
+}
+
+/* Force the phone field to display correctly on mobile */
+.wpforms-container-full .wpforms-field input[type="tel"] {
+    display: inline-flex; /* Ensure proper inline display */
+    align-items: center; /* Align items center */
+}
+
+/* Ensure flag dropdown visibility on mobile */
+.wpforms-container-full .wpforms-field input[type="tel"] .iti__selected-flag .iti__flag {
+    filter: none !important; /* Ensure flags are visible */
+}
