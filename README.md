@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Pathak</h1>
 <h3 align="center">I'm a web developer with the best digital skills and provide digital marketing services at affordable prices.</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fcoding&psig=AOvVaw28DXHrEo-aPn51XsGgLjx-&ust=1705111267812000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCVxNLg1oMDFQAAAAAdAAAAABAW](https://i.gifer.com/JXA0.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dynamic-tech-world&label=Profile%20views&color=0e75b6&style=flat" alt="dynamic-tech-world" /> </p>
 
