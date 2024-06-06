@@ -1,0 +1,92 @@
+/* Form container styling */
+.wpforms-container-full .wpforms-form {
+    background-color: #000000; /* Black background */
+    padding: 20px;
+    border-radius: 10px;
+    color: #ffffff; /* White text */
+}
+
+/* Field input styling */
+.wpforms-container-full .wpforms-field input,
+.wpforms-container-full .wpforms-field select,
+.wpforms-container-full .wpforms-field textarea {
+    background-color: #000000; /* Black background for form fields */
+    color: #ffffff; /* White text */
+    border: 1px solid #ffffff; /* White border for inputs */
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px; /* Padding inside the fields */
+}
+
+/* Placeholder text styling */
+.wpforms-container-full .wpforms-field input::placeholder,
+.wpforms-container-full .wpforms-field select::placeholder,
+.wpforms-container-full .wpforms-field textarea::placeholder {
+    color: #bbbbbb; /* Grey color for placeholders */
+}
+
+/* Label styling */
+.wpforms-container-full .wpforms-field label,
+.wpforms-container-full .wpforms-field .wpforms-field-label {
+    color: #ffffff !important; /* White label text */
+}
+
+/* Sub-label styling */
+.wpforms-container-full .wpforms-field .wpforms-field-sublabel {
+    color: #bbbbbb; /* Grey sub-label text */
+}
+
+/* Submit button styling */
+.wpforms-container-full .wpforms-submit {
+    background-color: #ff0000 !important; /* Red button color */
+    color: #ffffff !important; /* White button text color */
+    border: 1px solid #ff0000 !important; /* Red border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px 20px; /* Padding inside the button */
+    text-transform: uppercase; /* Uppercase text */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+/* Submit button hover effect */
+.wpforms-container-full .wpforms-submit:hover {
+    background-color: #cc0000 !important; /* Darker red on hover */
+}
+
+/* Dropdown styling */
+.wpforms-container-full .wpforms-field select {
+    background-color: #000000; /* Black background for dropdown */
+    color: #ffffff; /* White text */
+    border: 1px solid #ffffff; /* White border for dropdown */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Ensure all individual input fields have black background */
+.wpforms-container-full .wpforms-field input[type="text"],
+.wpforms-container-full .wpforms-field input[type="email"],
+.wpforms-container-full .wpforms-field input[type="tel"],
+.wpforms-container-full .wpforms-field input[type="url"],
+.wpforms-container-full .wpforms-field input[type="number"],
+.wpforms-container-full .wpforms-field textarea {
+    background-color: #000000; /* Black background */
+    color: #ffffff !important; /* White text */
+    border: 1px solid #ffffff; /* White border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Ensure multi-part forms retain black background */
+.wpforms-container-full .wpforms-pagebreak {
+    background-color: #000000; /* Black background */
+    color: #ffffff; /* White text */
+}
+
+/* Ensure multi-part form buttons */
+.wpforms-container-full .wpforms-pagebreak-button {
+    background-color: #000000; /* Black button color */
+    color: #ffffff; /* White text */
+    border: 1px solid #ffffff; /* White border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Ensure multi-part form button hover effect */
+.wpforms-container-full .wpforms-pagebreak-button:hover {
+    background-color: #333333; /* Darker black on hover */
+}
