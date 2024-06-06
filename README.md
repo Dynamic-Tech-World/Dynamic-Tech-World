@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **blender**
 
-- 👨‍💻 All of my projects are available at [my website](my website)
+- 👨‍💻 All of my projects are available at my website dynamictechworld.com
 
 - 📝 I regularly write articles on [digital marketing](digital marketing)
 
