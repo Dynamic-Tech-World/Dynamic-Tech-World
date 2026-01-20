@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhay Pathak!</h1>
 
-<h3 align="center">3rd Year B.com Program Student, and the founder of Digital Marketing Agency - Dynamic Tech World</h3>
+<h3 align="center">A web Devveloper and the founder of Digital Marketing Agency - Dynamic Tech World</h3>
 
 <h3 align="left">More About Me:</h3>
 
@@ -14,7 +14,7 @@
 - 📫 How to reach me: [dynamictechworldofficial@gmail.com](mailto:dynamictechworldofficial@gmail.com)
 - 👨‍💻 **[My Portfolio](https://mywebsiteshowcase.netlify.app/)**
 - 📝 **[My Blog/Articles](https://dynamictechworld.com/)**
-- ⚡ Fun fact: **I provide the plan for your online success as the architect of your digital aspirations!**
+- ⚡ Fun fact: **This Bio is create with my tool https://advance-github-readme-dtwasset.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
