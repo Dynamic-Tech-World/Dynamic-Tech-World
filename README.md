@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on: **Dynamic Tech World**
 - 💬 Ask me about: **Web Development**
 - 📫 How to reach me: [dynamictechworldofficial@gmail.com](mailto:dynamictechworldofficial@gmail.com)
-- 👨‍💻 **[My Portfolio](https://mywebsiteshowcase.netlify.app/)**
+- 👨‍💻 **[My Portfolio](https://dynamictechworld.com/portfolio/)**
 - 📝 **[My Blog/Articles](https://dynamictechworld.com/)**
 - ⚡ Fun fact: **This Bio is create with my tool https://advance-github-readme-dtwasset.netlify.app/**
 
