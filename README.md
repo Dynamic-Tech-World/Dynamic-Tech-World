@@ -57,9 +57,9 @@
 </p>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dynamic-Tech-World&show_icons=true&locale=en&theme=shades-of-purple&count_private=true&hide_border=true" alt="Dynamic-Tech-World's GitHub Stats" /></p>
+<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=Dynamic-Tech-World&show_icons=true&locale=en&theme=shades-of-purple&count_private=true&hide_border=true" alt="Dynamic-Tech-World's GitHub Stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dynamic-Tech-World&locale=en&theme=shades-of-purple&layout=compact&hide_border=true" alt="Top Languages" /></p>
+<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=Dynamic-Tech-World&locale=en&theme=shades-of-purple&layout=compact&hide_border=true" alt="Top Languages" /></p>
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=Dynamic-Tech-World&theme=shades-of-purple&hide_border=true" alt="GitHub Streak Stats" /></p>
 
